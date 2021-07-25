@@ -1,7 +1,7 @@
 # Site settings
 title: 基于ROS的异构多智能体协同控制系统
 SEOTitle: 异构多智能体，让算法更接近真实
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: philipyuangs@gmail.com
 description: "使用异构智能体构建多智能体系统，依赖视觉方案"
 keyword: "异构多智能体，协同控制，视觉感知"
